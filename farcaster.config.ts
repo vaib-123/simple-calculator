@@ -24,7 +24,7 @@ export const farcasterConfig = {
     splashBackgroundColor: "#000000",
     homeUrl: ROOT_URL,
     webhookUrl: `${ROOT_URL}/api/webhook`,
-    primaryCategory: "utilities",
+    primaryCategory: "utility",
     tags: ["calculator", "math", "utilities"],
     heroImageUrl: `${ROOT_URL}/blue-hero.png`,
     tagline: "",
